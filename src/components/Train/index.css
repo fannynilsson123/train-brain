@@ -23,6 +23,7 @@ dd {
 body {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
+
 }
 
 button {
@@ -30,17 +31,10 @@ button {
     font-size: 30px;
     text-align: center;
     border-radius: 10px;
-    background-color: burlywood;
 }
 
-/* .list {
-    display: grid;
-    grid-template-columns: 1fr;
-    
-    /* display: flex;
-    justify-content: center; 
+div {
+    margin: 5px;
     font-size: 20px;
-} */
-.list div {
-    margin: 2px;
+    line-height: 40px;
 }
